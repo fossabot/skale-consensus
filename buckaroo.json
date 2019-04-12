@@ -1,0 +1,6 @@
+{
+  "name": "uniform-reliable-broadcast",
+  "dependencies": {
+    "tomcrypt": "2.1.1"
+  }
+}
